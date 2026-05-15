@@ -1,0 +1,1 @@
+# linux-mint-disable-touchscreen-permanent
